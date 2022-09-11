@@ -1,0 +1,10 @@
+{
+  "id": "lfp",
+  "device": "cpu",
+  "epochs": 50,
+  "lr": 0.0001,
+  "batch_size": 64,
+  "log_dir": "log/lfp",
+  "val_every": 5,
+  "beta": 0.01
+}
